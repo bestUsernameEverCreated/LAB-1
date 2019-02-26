@@ -11,7 +11,7 @@
 
 using namespace std;
 
-
+// Ето учебный проект 
 int main(int argc, const char * argv[]) {
     
     
@@ -22,6 +22,9 @@ int main(int argc, const char * argv[]) {
     
     
     cout << a + b;
+<<<<<<< HEAD
     cout << a - b;
+=======
+>>>>>>> 2.5.2
     return 0;
 }

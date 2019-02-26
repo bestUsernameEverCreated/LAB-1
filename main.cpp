@@ -23,7 +23,12 @@ int main(int argc, const char * argv[]) {
     
     cout << a + b;
     cout << a - b;
+<<<<<<< HEAD
     cout << a * b;
     
+=======
+    cout << a / b;
+
+>>>>>>> division
     return 0;
 }

@@ -20,5 +20,8 @@ int main(int argc, const char * argv[]) {
     cin >> a;
     cin >> b;
     
+    
+    cout << a + b;
+    
     return 0;
 }
